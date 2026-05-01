@@ -1,0 +1,5 @@
+{
+  "name": "Elvis the Bulldog",
+  "description": "Feed treats to an Elvis-impersonating bulldog to see him do tricks and say signature lines.",
+  "requestFramePermissions": ["microphone"]
+}
